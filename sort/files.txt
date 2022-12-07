@@ -1,0 +1,321 @@
+Abilene.csv
+Akron.csv
+Albuquerque.csv
+Alexandria[m].csv
+Allen.csv
+Allentown.csv
+Amarillo.csv
+Anaheim.csv
+Anchorage[q].csv
+Ann Arbor.csv
+Antioch.csv
+Arlington.csv
+Arvada.csv
+Athens[y].csv
+Atlanta.csv
+Augusta[v].csv
+Aurora.csv
+Austin.csv
+Bakersfield.csv
+Baltimore[m].csv
+Baton Rouge[t].csv
+Beaumont.csv
+Bellevue.csv
+Bend.csv
+Berkeley.csv
+Billings.csv
+Birmingham.csv
+Boise[s].csv
+Boston.csv
+Boulder.csv
+Bridgeport.csv
+Brockton.csv
+Broken Arrow.csv
+Brownsville.csv
+Buckeye.csv
+Buffalo.csv
+Burbank.csv
+Cambridge.csv
+Cape Coral.csv
+Carlsbad.csv
+Carmel.csv
+Carrollton.csv
+Cary.csv
+Cedar Rapids.csv
+Centennial.csv
+Chandler.csv
+Charleston.csv
+Charlotte.csv
+Chattanooga.csv
+Chesapeake[m].csv
+Chicago.csv
+Chico.csv
+Chula Vista.csv
+Cincinnati.csv
+Clarksville.csv
+Clearwater.csv
+Cleveland.csv
+Clovis.csv
+College Station.csv
+Colorado Springs.csv
+Columbia.csv
+Columbus.csv
+Columbus[u].csv
+Concord.csv
+Coral Springs.csv
+Corona.csv
+Corpus Christi.csv
+Costa Mesa.csv
+Dallas.csv
+Daly City.csv
+Davenport.csv
+Davie.csv
+Dayton.csv
+Dearborn.csv
+Denton.csv
+Denver[i].csv
+Des Moines.csv
+Detroit.csv
+Downey.csv
+Durham.csv
+Edinburg.csv
+Edison.csv
+El Cajon.csv
+El Monte.csv
+El Paso.csv
+Elgin.csv
+Elizabeth.csv
+Elk Grove.csv
+Escondido.csv
+Eugene.csv
+Evansville.csv
+Everett.csv
+Fairfield.csv
+Fargo.csv
+Fayetteville.csv
+Fishers.csv
+Fontana.csv
+Fort Collins.csv
+Fort Lauderdale.csv
+Fort Wayne.csv
+Fort Worth.csv
+Fremont.csv
+Fresno.csv
+Frisco.csv
+Fullerton.csv
+Gainesville.csv
+Garden Grove.csv
+Garland.csv
+Gilbert[r].csv
+Glendale.csv
+Goodyear.csv
+Grand Prairie.csv
+Grand Rapids.csv
+Greeley.csv
+Green Bay.csv
+Greensboro.csv
+Gresham.csv
+Hampton[m].csv
+Hartford.csv
+Hayward.csv
+Henderson.csv
+Hesperia.csv
+Hialeah.csv
+High Point.csv
+Hillsboro.csv
+Hollywood.csv
+Honolulu[o].csv
+Houston.csv
+Huntington Beach.csv
+Huntsville.csv
+Independence.csv
+Indianapolis[g].csv
+Inglewood.csv
+Irvine.csv
+Irving.csv
+Jackson.csv
+Jacksonville[f].csv
+Jersey City.csv
+Joliet.csv
+Jurupa Valley.csv
+Kansas City.csv
+Kansas City[x].csv
+Kent.csv
+Killeen.csv
+Knoxville.csv
+Lafayette[z].csv
+Lakeland.csv
+Lakewood.csv
+Lancaster.csv
+Lansing.csv
+Laredo.csv
+Las Cruces.csv
+Las Vegas.csv
+League City.csv
+Lee's Summit.csv
+Lewisville.csv
+Lexington[p].csv
+Lincoln.csv
+Little Rock.csv
+Long Beach.csv
+Longmont.csv
+Los Angeles.csv
+Louisville[l].csv
+Lowell.csv
+Lubbock.csv
+Lynn.csv
+Macon[w].csv
+Madison.csv
+Manchester.csv
+McAllen.csv
+McKinney.csv
+Memphis.csv
+Menifee.csv
+Meridian.csv
+Mesa.csv
+Mesquite.csv
+Miami Gardens.csv
+Miami.csv
+Midland.csv
+Milwaukee.csv
+Minneapolis.csv
+Miramar.csv
+Mobile.csv
+Modesto.csv
+Montgomery.csv
+Moreno Valley.csv
+Murfreesboro.csv
+Murrieta.csv
+Nampa.csv
+Naperville.csv
+Nashville[j].csv
+New Bedford.csv
+New Haven.csv
+New Orleans[n].csv
+New York.csv
+Newark.csv
+Newport News[m].csv
+Norfolk[m].csv
+Norman.csv
+North Charleston.csv
+North Las Vegas.csv
+Norwalk.csv
+Oakland.csv
+Oceanside.csv
+Odessa.csv
+Oklahoma City.csv
+Olathe.csv
+Omaha.csv
+Ontario.csv
+Orange.csv
+Orlando.csv
+Overland Park.csv
+Oxnard.csv
+Palm Bay.csv
+Palmdale.csv
+Pasadena.csv
+Paterson.csv
+Pearland.csv
+Pembroke Pines.csv
+Peoria.csv
+Philadelphia[e].csv
+Phoenix.csv
+Pittsburgh.csv
+Plano.csv
+Pomona.csv
+Pompano Beach.csv
+Port St. Lucie.csv
+Portland.csv
+Providence.csv
+Provo.csv
+Pueblo.csv
+Quincy.csv
+Raleigh.csv
+Rancho Cucamonga.csv
+Reno.csv
+Renton.csv
+Rialto.csv
+Richardson.csv
+Richmond.csv
+Richmond[m].csv
+Rio Rancho.csv
+Riverside.csv
+Rochester.csv
+Rockford.csv
+Roseville.csv
+Round Rock.csv
+Sacramento.csv
+Saint Paul.csv
+Salem.csv
+Salinas.csv
+Salt Lake City.csv
+San Antonio.csv
+San Bernardino.csv
+San Diego.csv
+San Francisco[h].csv
+San Jose.csv
+San Mateo.csv
+Sandy Springs.csv
+Santa Ana.csv
+Santa Clara.csv
+Santa Clarita.csv
+Santa Maria.csv
+Santa Rosa.csv
+Savannah.csv
+Scottsdale.csv
+Seattle.csv
+Shreveport.csv
+Simi Valley.csv
+Sioux Falls.csv
+South Bend.csv
+South Fulton.csv
+Sparks.csv
+Spokane Valley.csv
+Spokane.csv
+Springfield.csv
+St. Louis[m].csv
+St. Petersburg.csv
+Stamford.csv
+Sterling Heights.csv
+Stockton.csv
+Sugar Land.csv
+Sunnyvale.csv
+Surprise.csv
+Syracuse.csv
+Tacoma.csv
+Tallahassee.csv
+Tampa.csv
+Temecula.csv
+Tempe.csv
+Thornton.csv
+Thousand Oaks.csv
+Toledo.csv
+Topeka.csv
+Torrance.csv
+Tucson.csv
+Tulsa.csv
+Tuscaloosa.csv
+Tyler.csv
+Vacaville.csv
+Vallejo.csv
+Vancouver.csv
+Ventura[aa].csv
+Victorville.csv
+Virginia Beach[m].csv
+Visalia.csv
+Waco.csv
+Warren.csv
+Washington[k].csv
+Waterbury.csv
+West Covina.csv
+West Jordan.csv
+West Palm Beach.csv
+West Valley City.csv
+Westminster.csv
+Wichita Falls.csv
+Wichita.csv
+Wilmington.csv
+Winston–Salem.csv
+Woodbridge.csv
+Worcester.csv
+Yonkers.csv

@@ -1,0 +1,8 @@
+{
+  "short_name": "Flavor Map",
+  "name": "Flavor Map",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#ffffff"
+}

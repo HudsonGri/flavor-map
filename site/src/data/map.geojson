@@ -1,0 +1,5963 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Francisco[h]",
+        "state": "California",
+        "price_mean": 2.1,
+        "rating_mean": 4.40625,
+        "user_ratings_total_mean": 370.8125,
+        "restaurants_tracked": 36.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.03333333333332,
+          37.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Anchorage[q]",
+        "state": "Alaska",
+        "price_mean": 1.5263157894736843,
+        "rating_mean": 4.401315789473684,
+        "user_ratings_total_mean": 202.17105263157896,
+        "restaurants_tracked": 80.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.28333333333333,
+          61.16666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "McAllen",
+        "state": "Texas",
+        "price_mean": 1.3854166666666667,
+        "rating_mean": 4.3350230414746544,
+        "user_ratings_total_mean": 352.2396313364055,
+        "restaurants_tracked": 261.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.23333333333332,
+          26.23333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Carlsbad",
+        "state": "California",
+        "price_mean": 1.564625850340136,
+        "rating_mean": 4.322340425531915,
+        "user_ratings_total_mean": 582.5691489361702,
+        "restaurants_tracked": 193.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.28333333333332,
+          33.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santa Rosa",
+        "state": "California",
+        "price_mean": 1.7727272727272727,
+        "rating_mean": 4.315420560747664,
+        "user_ratings_total_mean": 435.5981308411215,
+        "restaurants_tracked": 216.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7,
+          38.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Edinburg",
+        "state": "Texas",
+        "price_mean": 1.496124031007752,
+        "rating_mean": 4.311059907834101,
+        "user_ratings_total_mean": 532.6359447004609,
+        "restaurants_tracked": 235.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.16666666666669,
+          26.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Scottsdale",
+        "state": "Arizona",
+        "price_mean": 1.7826086956521738,
+        "rating_mean": 4.309338521400778,
+        "user_ratings_total_mean": 741.9688715953307,
+        "restaurants_tracked": 260.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86666666666666,
+          33.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Diego",
+        "state": "California",
+        "price_mean": 1.539906103286385,
+        "rating_mean": 4.3004219409282705,
+        "user_ratings_total_mean": 791.1940928270042,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13333333333334,
+          32.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burbank",
+        "state": "California",
+        "price_mean": 2.0352422907488985,
+        "rating_mean": 4.29327731092437,
+        "user_ratings_total_mean": 853.40756302521,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.31666666666666,
+          34.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Thousand Oaks",
+        "state": "California",
+        "price_mean": 1.6271186440677967,
+        "rating_mean": 4.27906976744186,
+        "user_ratings_total_mean": 555.015503875969,
+        "restaurants_tracked": 132.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.86666666666666,
+          34.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Costa Mesa",
+        "state": "California",
+        "price_mean": 1.7339449541284404,
+        "rating_mean": 4.276495726495726,
+        "user_ratings_total_mean": 690.2307692307693,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91666666666669,
+          33.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Irvine",
+        "state": "California",
+        "price_mean": 1.7714285714285714,
+        "rating_mean": 4.274662162162162,
+        "user_ratings_total_mean": 661.2027027027027,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76666666666668,
+          33.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Green Bay",
+        "state": "Wisconsin",
+        "price_mean": 1.51875,
+        "rating_mean": 4.272538860103627,
+        "user_ratings_total_mean": 537.7875647668394,
+        "restaurants_tracked": 194.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98333333333333,
+          44.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Mateo",
+        "state": "California",
+        "price_mean": 1.9162011173184357,
+        "rating_mean": 4.268571428571429,
+        "user_ratings_total_mean": 818.4047619047619,
+        "restaurants_tracked": 214.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31666666666666,
+          37.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "College Station",
+        "state": "Texas",
+        "price_mean": 1.5070422535211268,
+        "rating_mean": 4.2682795698924725,
+        "user_ratings_total_mean": 526.4784946236559,
+        "restaurants_tracked": 186.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.28333333333332,
+          30.58333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Inglewood",
+        "state": "California",
+        "price_mean": 1.8017241379310345,
+        "rating_mean": 4.26625,
+        "user_ratings_total_mean": 971.9625,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33333333333331,
+          33.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Orleans[n]",
+        "state": "Louisiana",
+        "price_mean": 1.6126482213438735,
+        "rating_mean": 4.264625850340136,
+        "user_ratings_total_mean": 1104.6190476190477,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.93333333333334,
+          30.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Los Angeles",
+        "state": "California",
+        "price_mean": 1.6982758620689655,
+        "rating_mean": 4.26125,
+        "user_ratings_total_mean": 933.7375,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41666666666669,
+          34.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santa Ana",
+        "state": "California",
+        "price_mean": 1.6363636363636365,
+        "rating_mean": 4.26049822064057,
+        "user_ratings_total_mean": 601.7437722419929,
+        "restaurants_tracked": 284.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88333333333334,
+          33.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fullerton",
+        "state": "California",
+        "price_mean": 1.592057761732852,
+        "rating_mean": 4.256040268456377,
+        "user_ratings_total_mean": 750.8020134228188,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91666666666669,
+          33.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Seattle",
+        "state": "Washington",
+        "price_mean": 1.8058252427184467,
+        "rating_mean": 4.254838709677419,
+        "user_ratings_total_mean": 929.4475806451613,
+        "restaurants_tracked": 250.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35,
+          47.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Brownsville",
+        "state": "Texas",
+        "price_mean": 1.5126582278481013,
+        "rating_mean": 4.2543999999999995,
+        "user_ratings_total_mean": 719.636,
+        "restaurants_tracked": 276.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45,
+          25.98333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Simi Valley",
+        "state": "California",
+        "price_mean": 1.6058823529411765,
+        "rating_mean": 4.253968253968254,
+        "user_ratings_total_mean": 607.9047619047619,
+        "restaurants_tracked": 191.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.73333333333332,
+          34.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Escondido",
+        "state": "California",
+        "price_mean": 1.6845637583892616,
+        "rating_mean": 4.250267379679144,
+        "user_ratings_total_mean": 489.2994652406417,
+        "restaurants_tracked": 190.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06666666666666,
+          33.13333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bend",
+        "state": "Oregon",
+        "price_mean": 1.5898617511520738,
+        "rating_mean": 4.248854961832061,
+        "user_ratings_total_mean": 661.6145038167939,
+        "restaurants_tracked": 264.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18333333333334,
+          44.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ventura[aa]",
+        "state": "California",
+        "price_mean": 1.5328947368421053,
+        "rating_mean": 4.246327683615819,
+        "user_ratings_total_mean": 557.1468926553672,
+        "restaurants_tracked": 180.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25,
+          34.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Long Beach",
+        "state": "California",
+        "price_mean": 1.4191616766467066,
+        "rating_mean": 4.24384236453202,
+        "user_ratings_total_mean": 616.9753694581281,
+        "restaurants_tracked": 206.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15,
+          33.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hillsboro",
+        "state": "Oregon",
+        "price_mean": 1.6,
+        "rating_mean": 4.238888888888889,
+        "user_ratings_total_mean": 589.2575757575758,
+        "restaurants_tracked": 200.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93333333333334,
+          45.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "St. Petersburg",
+        "state": "Florida",
+        "price_mean": 1.7272727272727273,
+        "rating_mean": 4.235341365461848,
+        "user_ratings_total_mean": 1489.7469879518073,
+        "restaurants_tracked": 252.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63333333333334,
+          27.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chula Vista",
+        "state": "California",
+        "price_mean": 1.535294117647059,
+        "rating_mean": 4.231451612903226,
+        "user_ratings_total_mean": 521.7459677419355,
+        "restaurants_tracked": 252.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01666666666668,
+          32.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "price_mean": 1.5128205128205128,
+        "rating_mean": 4.228151260504202,
+        "user_ratings_total_mean": 399.93697478991595,
+        "restaurants_tracked": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01666666666667,
+          42.333333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lynn",
+        "state": "Massachusetts",
+        "price_mean": 1.7689530685920578,
+        "rating_mean": 4.226086956521739,
+        "user_ratings_total_mean": 771.3277591973244,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.95,
+          42.46666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Norwalk",
+        "state": "California",
+        "price_mean": 1.4028776978417266,
+        "rating_mean": 4.225418060200669,
+        "user_ratings_total_mean": 720.3377926421405,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08333333333331,
+          33.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Eugene",
+        "state": "Oregon",
+        "price_mean": 1.721311475409836,
+        "rating_mean": 4.224342105263158,
+        "user_ratings_total_mean": 904.3092105263158,
+        "restaurants_tracked": 152.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11666666666666,
+          44.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Covina",
+        "state": "California",
+        "price_mean": 1.525,
+        "rating_mean": 4.221161825726141,
+        "user_ratings_total_mean": 687.1867219917012,
+        "restaurants_tracked": 243.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9,
+          34.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "El Cajon",
+        "state": "California",
+        "price_mean": 1.4178403755868545,
+        "rating_mean": 4.218250950570343,
+        "user_ratings_total_mean": 524.7566539923954,
+        "restaurants_tracked": 269.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.96666666666668,
+          32.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chico",
+        "state": "California",
+        "price_mean": 1.536231884057971,
+        "rating_mean": 4.216877637130802,
+        "user_ratings_total_mean": 520.0548523206751,
+        "restaurants_tracked": 239.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83333333333331,
+          39.73333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Boise[s]",
+        "state": "Idaho",
+        "price_mean": 1.7430555555555556,
+        "rating_mean": 4.215662650602409,
+        "user_ratings_total_mean": 910.9156626506024,
+        "restaurants_tracked": 168.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23333333333332,
+          43.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Berkeley",
+        "state": "California",
+        "price_mean": 1.6849315068493151,
+        "rating_mean": 4.214583333333334,
+        "user_ratings_total_mean": 708.3208333333333,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28333333333332,
+          37.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Laredo",
+        "state": "Texas",
+        "price_mean": 1.3493975903614457,
+        "rating_mean": 4.21390134529148,
+        "user_ratings_total_mean": 594.4394618834081,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.48333333333332,
+          27.566666666666663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Downey",
+        "state": "California",
+        "price_mean": 1.4185022026431717,
+        "rating_mean": 4.213357400722021,
+        "user_ratings_total_mean": 580.8808664259927,
+        "restaurants_tracked": 285.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.13333333333334,
+          33.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Palm Beach",
+        "state": "Florida",
+        "price_mean": 1.8448275862068966,
+        "rating_mean": 4.210697674418604,
+        "user_ratings_total_mean": 1098.4790697674418,
+        "restaurants_tracked": 218.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.11666666666666,
+          26.73333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Bedford",
+        "state": "Massachusetts",
+        "price_mean": 1.5696202531645569,
+        "rating_mean": 4.208843537414967,
+        "user_ratings_total_mean": 512.2278911564625,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93333333333334,
+          41.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Honolulu[o]",
+        "state": "Hawaii",
+        "price_mean": 1.8217821782178218,
+        "rating_mean": 4.2066945606694555,
+        "user_ratings_total_mean": 1082.5857740585775,
+        "restaurants_tracked": 241.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.83333333333334,
+          21.316666666666663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Charleston",
+        "state": "South Carolina",
+        "price_mean": 1.7570093457943925,
+        "rating_mean": 4.206159420289856,
+        "user_ratings_total_mean": 771.8514492753624,
+        "restaurants_tracked": 280.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95,
+          32.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Stamford",
+        "state": "Connecticut",
+        "price_mean": 1.758139534883721,
+        "rating_mean": 4.206130268199234,
+        "user_ratings_total_mean": 270.4942528735632,
+        "restaurants_tracked": 266.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53333333333333,
+          41.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "El Monte",
+        "state": "California",
+        "price_mean": 1.3397129186602872,
+        "rating_mean": 4.2054852320675105,
+        "user_ratings_total_mean": 648.9746835443038,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01666666666668,
+          34.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rochester",
+        "state": "Minnesota",
+        "price_mean": 1.4736842105263157,
+        "rating_mean": 4.204433497536946,
+        "user_ratings_total_mean": 676.8768472906404,
+        "restaurants_tracked": 205.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46666666666668,
+          44.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rochester",
+        "state": "New York",
+        "price_mean": 1.4736842105263157,
+        "rating_mean": 4.204433497536946,
+        "user_ratings_total_mean": 676.8768472906404,
+        "restaurants_tracked": 205.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61666666666666,
+          43.16666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lafayette[z]",
+        "state": "Louisiana",
+        "price_mean": 1.4513274336283186,
+        "rating_mean": 4.203819444444444,
+        "user_ratings_total_mean": 401.0798611111111,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.01666666666668,
+          30.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Orange",
+        "state": "California",
+        "price_mean": 1.5283842794759825,
+        "rating_mean": 4.203765690376569,
+        "user_ratings_total_mean": 588.6025104602511,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86666666666666,
+          33.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Roseville",
+        "state": "California",
+        "price_mean": 1.5694444444444444,
+        "rating_mean": 4.203333333333334,
+        "user_ratings_total_mean": 826.8708333333333,
+        "restaurants_tracked": 243.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31666666666666,
+          38.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Elk Grove",
+        "state": "California",
+        "price_mean": 1.5508021390374331,
+        "rating_mean": 4.2,
+        "user_ratings_total_mean": 657.8310502283105,
+        "restaurants_tracked": 224.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38333333333334,
+          38.41666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Daly City",
+        "state": "California",
+        "price_mean": 1.6296296296296295,
+        "rating_mean": 4.1989417989417985,
+        "user_ratings_total_mean": 610.6455026455027,
+        "restaurants_tracked": 190.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46666666666668,
+          37.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Torrance",
+        "state": "California",
+        "price_mean": 1.4767441860465116,
+        "rating_mean": 4.1969849246231155,
+        "user_ratings_total_mean": 659.2663316582915,
+        "restaurants_tracked": 201.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33333333333331,
+          33.833333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cambridge",
+        "state": "Massachusetts",
+        "price_mean": 1.690909090909091,
+        "rating_mean": 4.19665551839465,
+        "user_ratings_total_mean": 554.7725752508361,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11666666666666,
+          42.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Anaheim",
+        "state": "California",
+        "price_mean": 1.5291828793774318,
+        "rating_mean": 4.19623287671233,
+        "user_ratings_total_mean": 709.332191780822,
+        "restaurants_tracked": 296.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76666666666668,
+          33.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cape Coral",
+        "state": "Florida",
+        "price_mean": 1.6805555555555556,
+        "rating_mean": 4.1957894736842105,
+        "user_ratings_total_mean": 756.0105263157894,
+        "restaurants_tracked": 192.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98333333333333,
+          26.633333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort Lauderdale",
+        "state": "Florida",
+        "price_mean": 1.643835616438356,
+        "rating_mean": 4.194166666666666,
+        "user_ratings_total_mean": 1130.8291666666667,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13333333333334,
+          26.133333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Virginia Beach[m]",
+        "state": "Virginia",
+        "price_mean": 1.69375,
+        "rating_mean": 4.192783505154639,
+        "user_ratings_total_mean": 1174.5824742268042,
+        "restaurants_tracked": 195.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.01666666666667,
+          36.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Boulder",
+        "state": "Colorado",
+        "price_mean": 1.6745283018867925,
+        "rating_mean": 4.191129032258065,
+        "user_ratings_total_mean": 744.9153225806451,
+        "restaurants_tracked": 250.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25,
+          40.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Allentown",
+        "state": "Pennsylvania",
+        "price_mean": 1.5089285714285714,
+        "rating_mean": 4.19080459770115,
+        "user_ratings_total_mean": 637.7432950191571,
+        "restaurants_tracked": 264.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46666666666667,
+          40.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Valley City",
+        "state": "Utah",
+        "price_mean": 1.5031055900621118,
+        "rating_mean": 4.190384615384615,
+        "user_ratings_total_mean": 1177.9807692307693,
+        "restaurants_tracked": 215.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01666666666668,
+          40.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Jose",
+        "state": "California",
+        "price_mean": 1.6,
+        "rating_mean": 4.189922480620155,
+        "user_ratings_total_mean": 320.17054263565893,
+        "restaurants_tracked": 137.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81666666666666,
+          37.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Waterbury",
+        "state": "Connecticut",
+        "price_mean": 1.5414847161572052,
+        "rating_mean": 4.186813186813187,
+        "user_ratings_total_mean": 396.16483516483515,
+        "restaurants_tracked": 276.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.03333333333333,
+          41.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lowell",
+        "state": "Massachusetts",
+        "price_mean": 1.5746268656716418,
+        "rating_mean": 4.1866666666666665,
+        "user_ratings_total_mean": 536.5966666666667,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31666666666666,
+          42.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Buffalo",
+        "state": "New York",
+        "price_mean": 1.5627705627705628,
+        "rating_mean": 4.185144927536231,
+        "user_ratings_total_mean": 595.7898550724638,
+        "restaurants_tracked": 279.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85,
+          42.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Paterson",
+        "state": "New Jersey",
+        "price_mean": 1.7315175097276265,
+        "rating_mean": 4.184899328859061,
+        "user_ratings_total_mean": 470.53691275167785,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16666666666667,
+          40.91666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Syracuse",
+        "state": "New York",
+        "price_mean": 1.5022222222222221,
+        "rating_mean": 4.184320557491289,
+        "user_ratings_total_mean": 623.8710801393728,
+        "restaurants_tracked": 294.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13333333333334,
+          43.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tampa",
+        "state": "Florida",
+        "price_mean": 1.4831460674157304,
+        "rating_mean": 4.182894736842106,
+        "user_ratings_total_mean": 1047.7412280701753,
+        "restaurants_tracked": 233.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46666666666667,
+          27.966666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oceanside",
+        "state": "California",
+        "price_mean": 1.5119617224880382,
+        "rating_mean": 4.182478632478632,
+        "user_ratings_total_mean": 676.9529914529915,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3,
+          33.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Denton",
+        "state": "Texas",
+        "price_mean": 1.434782608695652,
+        "rating_mean": 4.182157676348547,
+        "user_ratings_total_mean": 684.9253112033196,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13333333333334,
+          33.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Bernardino",
+        "state": "California",
+        "price_mean": 1.4292237442922375,
+        "rating_mean": 4.178966789667896,
+        "user_ratings_total_mean": 687.0774907749078,
+        "restaurants_tracked": 276.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.28333333333332,
+          34.13333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "price_mean": 1.5217391304347827,
+        "rating_mean": 4.178823529411765,
+        "user_ratings_total_mean": 736.5529411764705,
+        "restaurants_tracked": 258.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.73333333333332,
+          43.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Salem",
+        "state": "Oregon",
+        "price_mean": 1.5133333333333334,
+        "rating_mean": 4.178378378378379,
+        "user_ratings_total_mean": 600.1135135135136,
+        "restaurants_tracked": 190.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01666666666668,
+          44.91666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santa Clarita",
+        "state": "California",
+        "price_mean": 1.5296296296296297,
+        "rating_mean": 4.177210884353741,
+        "user_ratings_total_mean": 629.2414965986394,
+        "restaurants_tracked": 294.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5,
+          34.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Wilmington",
+        "state": "North Carolina",
+        "price_mean": 1.4152542372881356,
+        "rating_mean": 4.177173913043479,
+        "user_ratings_total_mean": 622.9202898550725,
+        "restaurants_tracked": 279.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88333333333334,
+          34.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pomona",
+        "state": "California",
+        "price_mean": 1.4666666666666666,
+        "rating_mean": 4.174999999999999,
+        "user_ratings_total_mean": 640.0409836065573,
+        "restaurants_tracked": 248.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76666666666668,
+          34.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sacramento",
+        "state": "California",
+        "price_mean": 1.579185520361991,
+        "rating_mean": 4.17375,
+        "user_ratings_total_mean": 902.9416666666667,
+        "restaurants_tracked": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.46666666666668,
+          38.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Yonkers",
+        "state": "New York",
+        "price_mean": 1.7752808988764044,
+        "rating_mean": 4.173400673400673,
+        "user_ratings_total_mean": 661.6228956228956,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86666666666666,
+          40.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Miami Gardens",
+        "state": "Florida",
+        "price_mean": 1.6147540983606556,
+        "rating_mean": 4.172602739726027,
+        "user_ratings_total_mean": 1206.9965753424658,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23333333333333,
+          25.933333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Haven",
+        "state": "Connecticut",
+        "price_mean": 1.6454545454545455,
+        "rating_mean": 4.172118959107808,
+        "user_ratings_total_mean": 617.4721189591078,
+        "restaurants_tracked": 272.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91666666666667,
+          41.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santa Clara",
+        "state": "California",
+        "price_mean": 1.631578947368421,
+        "rating_mean": 4.171782178217822,
+        "user_ratings_total_mean": 551.6732673267327,
+        "restaurants_tracked": 209.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96666666666668,
+          37.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "South Bend",
+        "state": "Indiana",
+        "price_mean": 1.5276381909547738,
+        "rating_mean": 4.171729957805907,
+        "user_ratings_total_mean": 720.9831223628692,
+        "restaurants_tracked": 238.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26666666666667,
+          41.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Athens[y]",
+        "state": "Georgia",
+        "price_mean": 1.3375,
+        "rating_mean": 4.17047619047619,
+        "user_ratings_total_mean": 484.03333333333336,
+        "restaurants_tracked": 216.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36666666666666,
+          33.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Huntington Beach",
+        "state": "California",
+        "price_mean": 1.5647668393782384,
+        "rating_mean": 4.1702830188679245,
+        "user_ratings_total_mean": 615.377358490566,
+        "restaurants_tracked": 214.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0,
+          33.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Salinas",
+        "state": "California",
+        "price_mean": 1.5784313725490196,
+        "rating_mean": 4.169960474308301,
+        "user_ratings_total_mean": 618.1462450592885,
+        "restaurants_tracked": 262.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63333333333334,
+          36.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Carmel",
+        "state": "Indiana",
+        "price_mean": 1.2835820895522387,
+        "rating_mean": 4.16919191919192,
+        "user_ratings_total_mean": 383.9040404040404,
+        "restaurants_tracked": 206.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6,
+          39.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "state": "Washington",
+        "price_mean": 1.5904059040590406,
+        "rating_mean": 4.168013468013468,
+        "user_ratings_total_mean": 886.9326599326599,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58333333333331,
+          45.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oakland",
+        "state": "California",
+        "price_mean": 1.6941747572815533,
+        "rating_mean": 4.167226890756302,
+        "user_ratings_total_mean": 505.0126050420168,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21666666666668,
+          37.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Wichita",
+        "state": "Kansas",
+        "price_mean": 1.5056179775280898,
+        "rating_mean": 4.165656565656565,
+        "user_ratings_total_mean": 654.0151515151515,
+        "restaurants_tracked": 207.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33333333333331,
+          37.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "price_mean": 1.5644171779141105,
+        "rating_mean": 4.165174129353234,
+        "user_ratings_total_mean": 632.1990049751244,
+        "restaurants_tracked": 203.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.73333333333333,
+          42.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sparks",
+        "state": "Nevada",
+        "price_mean": 1.6592592592592592,
+        "rating_mean": 4.1647058823529415,
+        "user_ratings_total_mean": 644.8529411764706,
+        "restaurants_tracked": 171.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.73333333333332,
+          39.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Quincy",
+        "state": "Massachusetts",
+        "price_mean": 1.6392156862745098,
+        "rating_mean": 4.164189189189189,
+        "user_ratings_total_mean": 517.402027027027,
+        "restaurants_tracked": 298.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          42.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Moreno Valley",
+        "state": "California",
+        "price_mean": 1.3409090909090908,
+        "rating_mean": 4.163157894736842,
+        "user_ratings_total_mean": 532.2412280701755,
+        "restaurants_tracked": 233.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2,
+          33.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "price_mean": 1.42578125,
+        "rating_mean": 4.1625,
+        "user_ratings_total_mean": 637.5641891891892,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13333333333334,
+          41.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oxnard",
+        "state": "California",
+        "price_mean": 1.41875,
+        "rating_mean": 4.162032085561497,
+        "user_ratings_total_mean": 430.97860962566847,
+        "restaurants_tracked": 189.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2,
+          34.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ontario",
+        "state": "California",
+        "price_mean": 1.4975124378109452,
+        "rating_mean": 4.160810810810811,
+        "user_ratings_total_mean": 645.2162162162163,
+        "restaurants_tracked": 224.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6,
+          34.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Madison",
+        "state": "Wisconsin",
+        "price_mean": 1.5537848605577689,
+        "rating_mean": 4.160791366906474,
+        "user_ratings_total_mean": 687.7877697841726,
+        "restaurants_tracked": 278.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41666666666667,
+          43.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Garden Grove",
+        "state": "California",
+        "price_mean": 1.375,
+        "rating_mean": 4.159876543209877,
+        "user_ratings_total_mean": 488.58024691358025,
+        "restaurants_tracked": 164.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96666666666668,
+          33.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kansas City",
+        "state": "Missouri",
+        "price_mean": 1.602076124567474,
+        "rating_mean": 4.158333333333333,
+        "user_ratings_total_mean": 1140.5033333333333,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55,
+          39.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Davenport",
+        "state": "Iowa",
+        "price_mean": 1.4652173913043478,
+        "rating_mean": 4.158148148148149,
+        "user_ratings_total_mean": 574.3037037037037,
+        "restaurants_tracked": 272.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6,
+          41.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Peoria",
+        "state": "Illinois",
+        "price_mean": 1.6702127659574468,
+        "rating_mean": 4.156306306306306,
+        "user_ratings_total_mean": 1427.6891891891892,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61666666666666,
+          40.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Peoria",
+        "state": "Arizona",
+        "price_mean": 1.6702127659574468,
+        "rating_mean": 4.156306306306306,
+        "user_ratings_total_mean": 1427.6891891891892,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3,
+          33.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chattanooga",
+        "state": "Tennessee",
+        "price_mean": 1.1721311475409837,
+        "rating_mean": 4.1562130177514796,
+        "user_ratings_total_mean": 383.29585798816566,
+        "restaurants_tracked": 181.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.23333333333333,
+          35.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashville[j]",
+        "state": "Tennessee",
+        "price_mean": 1.6551724137931034,
+        "rating_mean": 4.155378486055777,
+        "user_ratings_total_mean": 1021.9681274900398,
+        "restaurants_tracked": 253.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78333333333333,
+          36.16666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rialto",
+        "state": "California",
+        "price_mean": 1.3585858585858586,
+        "rating_mean": 4.154958677685951,
+        "user_ratings_total_mean": 612.6404958677685,
+        "restaurants_tracked": 245.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.38333333333334,
+          34.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clearwater",
+        "state": "Florida",
+        "price_mean": 1.5240174672489082,
+        "rating_mean": 4.154480286738352,
+        "user_ratings_total_mean": 1192.3655913978494,
+        "restaurants_tracked": 281.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.76666666666667,
+          27.966666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gresham",
+        "state": "Oregon",
+        "price_mean": 1.4684684684684686,
+        "rating_mean": 4.154032258064516,
+        "user_ratings_total_mean": 581.4717741935484,
+        "restaurants_tracked": 249.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43333333333334,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Wichita Falls",
+        "state": "Texas",
+        "price_mean": 1.3863636363636365,
+        "rating_mean": 4.153784860557769,
+        "user_ratings_total_mean": 641.9442231075698,
+        "restaurants_tracked": 254.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.51666666666668,
+          33.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victorville",
+        "state": "California",
+        "price_mean": 1.3631578947368421,
+        "rating_mean": 4.153679653679654,
+        "user_ratings_total_mean": 831.3852813852814,
+        "restaurants_tracked": 235.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.35,
+          34.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Winston\u2013Salem",
+        "state": "North Carolina",
+        "price_mean": 1.426605504587156,
+        "rating_mean": 4.153418803418804,
+        "user_ratings_total_mean": 749.4615384615385,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26666666666667,
+          36.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tempe",
+        "state": "Arizona",
+        "price_mean": 1.3928571428571428,
+        "rating_mean": 4.152112676056338,
+        "user_ratings_total_mean": 543.6830985915493,
+        "restaurants_tracked": 144.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93333333333334,
+          33.38333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Durham",
+        "state": "North Carolina",
+        "price_mean": 1.3497757847533631,
+        "rating_mean": 4.151481481481482,
+        "user_ratings_total_mean": 468.8740740740741,
+        "restaurants_tracked": 283.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9,
+          35.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rockford",
+        "state": "Illinois",
+        "price_mean": 1.3714285714285714,
+        "rating_mean": 4.150943396226415,
+        "user_ratings_total_mean": 503.3301886792453,
+        "restaurants_tracked": 212.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.06666666666666,
+          42.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Concord",
+        "state": "California",
+        "price_mean": 1.4835164835164836,
+        "rating_mean": 4.150697674418605,
+        "user_ratings_total_mean": 322.4697674418605,
+        "restaurants_tracked": 222.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0,
+          37.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Concord",
+        "state": "North Carolina",
+        "price_mean": 1.4835164835164836,
+        "rating_mean": 4.150697674418605,
+        "user_ratings_total_mean": 322.4697674418605,
+        "restaurants_tracked": 222.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6,
+          35.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Henderson",
+        "state": "Nevada",
+        "price_mean": 2.0821917808219177,
+        "rating_mean": 4.149809885931559,
+        "user_ratings_total_mean": 2687.980988593156,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.03333333333332,
+          36.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Newport News[m]",
+        "state": "Virginia",
+        "price_mean": 1.3944954128440368,
+        "rating_mean": 4.149799196787149,
+        "user_ratings_total_mean": 575.7510040160643,
+        "restaurants_tracked": 253.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51666666666667,
+          37.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Waco",
+        "state": "Texas",
+        "price_mean": 1.3756345177664975,
+        "rating_mean": 4.148790322580646,
+        "user_ratings_total_mean": 739.9637096774194,
+        "restaurants_tracked": 254.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.18333333333334,
+          31.566666666666663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond",
+        "state": "California",
+        "price_mean": 1.6694214876033058,
+        "rating_mean": 4.148351648351649,
+        "user_ratings_total_mean": 552.3040293040293,
+        "restaurants_tracked": 279.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36666666666666,
+          37.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Miami",
+        "state": "Florida",
+        "price_mean": 1.8489795918367347,
+        "rating_mean": 4.147602739726028,
+        "user_ratings_total_mean": 1297.1301369863013,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2,
+          25.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hollywood",
+        "state": "Florida",
+        "price_mean": 1.6294416243654823,
+        "rating_mean": 4.147391304347826,
+        "user_ratings_total_mean": 1347.8304347826088,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16666666666667,
+          26.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tyler",
+        "state": "Texas",
+        "price_mean": 1.4972067039106145,
+        "rating_mean": 4.147257383966244,
+        "user_ratings_total_mean": 662.5654008438819,
+        "restaurants_tracked": 253.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3,
+          32.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chicago",
+        "state": "Illinois",
+        "price_mean": 1.7339449541284404,
+        "rating_mean": 4.1463709677419365,
+        "user_ratings_total_mean": 1741.2862903225807,
+        "restaurants_tracked": 250.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68333333333334,
+          41.833333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "price_mean": 1.5120967741935485,
+        "rating_mean": 4.145804195804195,
+        "user_ratings_total_mean": 589.3251748251748,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96666666666667,
+          43.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Portland",
+        "state": "Oregon",
+        "price_mean": 1.5971223021582734,
+        "rating_mean": 4.145454545454545,
+        "user_ratings_total_mean": 789.10101010101,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65,
+          45.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santa Maria",
+        "state": "California",
+        "price_mean": 1.4263157894736842,
+        "rating_mean": 4.144491525423729,
+        "user_ratings_total_mean": 395.1779661016949,
+        "restaurants_tracked": 236.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.43333333333334,
+          34.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dayton",
+        "state": "Ohio",
+        "price_mean": 1.4232365145228216,
+        "rating_mean": 4.143911439114391,
+        "user_ratings_total_mean": 765.5129151291513,
+        "restaurants_tracked": 280.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18333333333334,
+          39.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Spokane Valley",
+        "state": "Washington",
+        "price_mean": 1.559782608695652,
+        "rating_mean": 4.142325581395348,
+        "user_ratings_total_mean": 662.4976744186047,
+        "restaurants_tracked": 215.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23333333333332,
+          47.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Las Cruces",
+        "state": "New Mexico",
+        "price_mean": 1.4326241134751774,
+        "rating_mean": 4.141717791411044,
+        "user_ratings_total_mean": 753.9509202453987,
+        "restaurants_tracked": 166.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.78333333333332,
+          32.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Providence",
+        "state": "Rhode Island",
+        "price_mean": 1.626865671641791,
+        "rating_mean": 4.141414141414141,
+        "user_ratings_total_mean": 642.8922558922559,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41666666666667,
+          41.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rancho Cucamonga",
+        "state": "California",
+        "price_mean": 1.4853801169590644,
+        "rating_mean": 4.141116751269036,
+        "user_ratings_total_mean": 722.8680203045685,
+        "restaurants_tracked": 199.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56666666666666,
+          34.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Beaumont",
+        "state": "Texas",
+        "price_mean": 1.38860103626943,
+        "rating_mean": 4.140890688259109,
+        "user_ratings_total_mean": 664.6842105263158,
+        "restaurants_tracked": 249.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.13333333333334,
+          30.08333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pueblo",
+        "state": "Colorado",
+        "price_mean": 1.3863636363636365,
+        "rating_mean": 4.138999999999999,
+        "user_ratings_total_mean": 806.74,
+        "restaurants_tracked": 204.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61666666666666,
+          38.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "League City",
+        "state": "Texas",
+        "price_mean": 1.4509803921568627,
+        "rating_mean": 4.138305084745762,
+        "user_ratings_total_mean": 827.7457627118644,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1,
+          29.48333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pompano Beach",
+        "state": "Florida",
+        "price_mean": 1.5958549222797926,
+        "rating_mean": 4.137768240343347,
+        "user_ratings_total_mean": 878.862660944206,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13333333333334,
+          26.23333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Riverside",
+        "state": "California",
+        "price_mean": 1.4776119402985075,
+        "rating_mean": 4.137123745819398,
+        "user_ratings_total_mean": 910.561872909699,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.38333333333334,
+          33.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gilbert[r]",
+        "state": "Arizona",
+        "price_mean": 1.5538461538461539,
+        "rating_mean": 4.1371040723981904,
+        "user_ratings_total_mean": 1414.5339366515836,
+        "restaurants_tracked": 226.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.73333333333332,
+          33.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cedar Rapids",
+        "state": "Iowa",
+        "price_mean": 1.4851485148514851,
+        "rating_mean": 4.136480686695279,
+        "user_ratings_total_mean": 650.1416309012875,
+        "restaurants_tracked": 235.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.66666666666669,
+          41.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surprise",
+        "state": "Arizona",
+        "price_mean": 1.6542553191489362,
+        "rating_mean": 4.135944700460829,
+        "user_ratings_total_mean": 1800.6866359447004,
+        "restaurants_tracked": 217.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.45,
+          33.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chesapeake[m]",
+        "state": "Virginia",
+        "price_mean": 1.5172413793103448,
+        "rating_mean": 4.1348717948717955,
+        "user_ratings_total_mean": 863.1282051282051,
+        "restaurants_tracked": 200.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3,
+          36.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hartford",
+        "state": "Connecticut",
+        "price_mean": 1.523076923076923,
+        "rating_mean": 4.133892617449665,
+        "user_ratings_total_mean": 537.3154362416108,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68333333333334,
+          41.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "price_mean": 1.525,
+        "rating_mean": 4.133502538071066,
+        "user_ratings_total_mean": 1284.7309644670052,
+        "restaurants_tracked": 201.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93333333333334,
+          40.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Olathe",
+        "state": "Kansas",
+        "price_mean": 1.5476190476190477,
+        "rating_mean": 4.133476394849785,
+        "user_ratings_total_mean": 1009.862660944206,
+        "restaurants_tracked": 235.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.81666666666666,
+          38.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gainesville",
+        "state": "Florida",
+        "price_mean": 1.3867924528301887,
+        "rating_mean": 4.1331950207468875,
+        "user_ratings_total_mean": 729.9668049792531,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33333333333333,
+          29.666666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Murrieta",
+        "state": "California",
+        "price_mean": 1.4111675126903553,
+        "rating_mean": 4.133189655172414,
+        "user_ratings_total_mean": 645.0344827586207,
+        "restaurants_tracked": 239.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18333333333334,
+          33.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Antioch",
+        "state": "California",
+        "price_mean": 1.5151515151515151,
+        "rating_mean": 4.132231404958677,
+        "user_ratings_total_mean": 394.18595041322317,
+        "restaurants_tracked": 254.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78333333333332,
+          37.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Coral Springs",
+        "state": "Florida",
+        "price_mean": 1.7579908675799087,
+        "rating_mean": 4.131950207468879,
+        "user_ratings_total_mean": 930.9377593360996,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25,
+          26.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mesa",
+        "state": "Arizona",
+        "price_mean": 1.5778894472361809,
+        "rating_mean": 4.1317796610169495,
+        "user_ratings_total_mean": 1286.4322033898304,
+        "restaurants_tracked": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71666666666668,
+          33.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Longmont",
+        "state": "Colorado",
+        "price_mean": 1.6444444444444444,
+        "rating_mean": 4.13155737704918,
+        "user_ratings_total_mean": 805.8401639344262,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.11666666666666,
+          40.16666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jurupa Valley",
+        "state": "California",
+        "price_mean": 1.2876106194690264,
+        "rating_mean": 4.13132075471698,
+        "user_ratings_total_mean": 582.4301886792452,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.46666666666668,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Manchester",
+        "state": "New Hampshire",
+        "price_mean": 1.5650224215246638,
+        "rating_mean": 4.130075187969926,
+        "user_ratings_total_mean": 559.578947368421,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43333333333334,
+          42.98333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Worcester",
+        "state": "Massachusetts",
+        "price_mean": 1.496031746031746,
+        "rating_mean": 4.129194630872483,
+        "user_ratings_total_mean": 513.1979865771812,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8,
+          42.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Corona",
+        "state": "California",
+        "price_mean": 1.3613138686131387,
+        "rating_mean": 4.128813559322034,
+        "user_ratings_total_mean": 534.606779661017,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56666666666666,
+          33.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Springfield",
+        "state": "Illinois",
+        "price_mean": 1.3837837837837839,
+        "rating_mean": 4.128,
+        "user_ratings_total_mean": 778.2133333333334,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63333333333334,
+          39.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Springfield",
+        "state": "Massachusetts",
+        "price_mean": 1.3837837837837839,
+        "rating_mean": 4.128,
+        "user_ratings_total_mean": 778.2133333333334,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53333333333333,
+          42.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Springfield",
+        "state": "Missouri",
+        "price_mean": 1.3837837837837839,
+        "rating_mean": 4.128,
+        "user_ratings_total_mean": 778.2133333333334,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28333333333332,
+          37.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Augusta[v]",
+        "state": "Georgia",
+        "price_mean": 1.394736842105263,
+        "rating_mean": 4.12680412371134,
+        "user_ratings_total_mean": 696.7164948453608,
+        "restaurants_tracked": 196.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.06666666666666,
+          33.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bridgeport",
+        "state": "Connecticut",
+        "price_mean": 1.6203703703703705,
+        "rating_mean": 4.126153846153846,
+        "user_ratings_total_mean": 713.723076923077,
+        "restaurants_tracked": 132.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.18333333333334,
+          41.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Savannah",
+        "state": "Georgia",
+        "price_mean": 1.6377358490566039,
+        "rating_mean": 4.125418060200669,
+        "user_ratings_total_mean": 1117.361204013378,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.15,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Birmingham",
+        "state": "Alabama",
+        "price_mean": 1.4830508474576272,
+        "rating_mean": 4.124727272727274,
+        "user_ratings_total_mean": 659.04,
+        "restaurants_tracked": 279.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78333333333333,
+          33.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Amarillo",
+        "state": "Texas",
+        "price_mean": 1.4143646408839778,
+        "rating_mean": 4.124390243902439,
+        "user_ratings_total_mean": 821.4243902439024,
+        "restaurants_tracked": 209.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83333333333331,
+          35.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lexington[p]",
+        "state": "Kentucky",
+        "price_mean": 1.3708920187793427,
+        "rating_mean": 4.124193548387097,
+        "user_ratings_total_mean": 594.1814516129032,
+        "restaurants_tracked": 255.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45,
+          38.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hayward",
+        "state": "California",
+        "price_mean": 1.658682634730539,
+        "rating_mean": 4.123076923076923,
+        "user_ratings_total_mean": 596.5282051282052,
+        "restaurants_tracked": 196.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1,
+          37.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "price_mean": 1.5034965034965035,
+        "rating_mean": 4.123030303030303,
+        "user_ratings_total_mean": 632.4060606060606,
+        "restaurants_tracked": 169.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.26666666666668,
+          36.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chandler",
+        "state": "Arizona",
+        "price_mean": 1.6472727272727272,
+        "rating_mean": 4.123,
+        "user_ratings_total_mean": 1579.7933333333333,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85,
+          33.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Miramar",
+        "state": "Florida",
+        "price_mean": 1.4974093264248705,
+        "rating_mean": 4.122869955156951,
+        "user_ratings_total_mean": 1051.9103139013453,
+        "restaurants_tracked": 225.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33333333333333,
+          25.966666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Jordan",
+        "state": "Utah",
+        "price_mean": 1.4974093264248705,
+        "rating_mean": 4.121186440677967,
+        "user_ratings_total_mean": 1169.5593220338983,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0,
+          40.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Reno",
+        "state": "Nevada",
+        "price_mean": 1.6666666666666667,
+        "rating_mean": 4.120670391061452,
+        "user_ratings_total_mean": 613.413407821229,
+        "restaurants_tracked": 180.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.83333333333331,
+          39.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Brockton",
+        "state": "Massachusetts",
+        "price_mean": 1.4245283018867925,
+        "rating_mean": 4.120532319391634,
+        "user_ratings_total_mean": 396.5057034220532,
+        "restaurants_tracked": 265.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01666666666667,
+          42.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Grand Rapids",
+        "state": "Michigan",
+        "price_mean": 1.5071428571428571,
+        "rating_mean": 4.119594594594594,
+        "user_ratings_total_mean": 836.9695945945946,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65,
+          42.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Modesto",
+        "state": "California",
+        "price_mean": 1.4086956521739131,
+        "rating_mean": 4.119475655430712,
+        "user_ratings_total_mean": 463.71535580524346,
+        "restaurants_tracked": 272.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0,
+          37.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "price_mean": 1.5278810408921932,
+        "rating_mean": 4.118918918918919,
+        "user_ratings_total_mean": 581.6283783783783,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96666666666667,
+          40.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Temecula",
+        "state": "California",
+        "price_mean": 1.4230769230769231,
+        "rating_mean": 4.118518518518519,
+        "user_ratings_total_mean": 605.8847736625514,
+        "restaurants_tracked": 250.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13333333333334,
+          33.483333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Baton Rouge[t]",
+        "state": "Louisiana",
+        "price_mean": 1.6168582375478928,
+        "rating_mean": 4.117931034482758,
+        "user_ratings_total_mean": 639.7103448275863,
+        "restaurants_tracked": 295.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.13333333333334,
+          30.433333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pembroke Pines",
+        "state": "Florida",
+        "price_mean": 1.5416666666666667,
+        "rating_mean": 4.114516129032259,
+        "user_ratings_total_mean": 1137.399193548387,
+        "restaurants_tracked": 248.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33333333333333,
+          26.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Toledo",
+        "state": "Ohio",
+        "price_mean": 1.493723849372385,
+        "rating_mean": 4.11444866920152,
+        "user_ratings_total_mean": 803.0266159695817,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58333333333333,
+          41.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tallahassee",
+        "state": "Florida",
+        "price_mean": 1.4726027397260273,
+        "rating_mean": 4.112048192771084,
+        "user_ratings_total_mean": 778.7168674698795,
+        "restaurants_tracked": 167.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25,
+          30.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "El Paso",
+        "state": "Texas",
+        "price_mean": 1.2272727272727273,
+        "rating_mean": 4.109999999999999,
+        "user_ratings_total_mean": 640.3347826086956,
+        "restaurants_tracked": 264.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41666666666669,
+          31.83333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Billings",
+        "state": "Montana",
+        "price_mean": 1.4475806451612903,
+        "rating_mean": 4.1090277777777775,
+        "user_ratings_total_mean": 543.4652777777778,
+        "restaurants_tracked": 291.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.53333333333332,
+          45.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Murfreesboro",
+        "state": "Tennessee",
+        "price_mean": 1.349112426035503,
+        "rating_mean": 4.108695652173913,
+        "user_ratings_total_mean": 657.7342995169082,
+        "restaurants_tracked": 217.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.41666666666667,
+          35.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Evansville",
+        "state": "Indiana",
+        "price_mean": 1.4731182795698925,
+        "rating_mean": 4.1085714285714285,
+        "user_ratings_total_mean": 659.2571428571429,
+        "restaurants_tracked": 214.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53333333333333,
+          37.98333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort Collins",
+        "state": "Colorado",
+        "price_mean": 1.52020202020202,
+        "rating_mean": 4.107943925233645,
+        "user_ratings_total_mean": 732.9018691588785,
+        "restaurants_tracked": 214.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06666666666666,
+          40.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hialeah",
+        "state": "Florida",
+        "price_mean": 1.3298429319371727,
+        "rating_mean": 4.106808510638298,
+        "user_ratings_total_mean": 915.7191489361702,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3,
+          25.866666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bellevue",
+        "state": "Washington",
+        "price_mean": 1.6716981132075472,
+        "rating_mean": 4.106418918918919,
+        "user_ratings_total_mean": 836.8378378378378,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15,
+          47.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "price_mean": 1.5867158671586716,
+        "rating_mean": 4.106397306397306,
+        "user_ratings_total_mean": 997.4545454545455,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5,
+          39.13333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Round Rock",
+        "state": "Texas",
+        "price_mean": 1.5299539170506913,
+        "rating_mean": 4.104814814814814,
+        "user_ratings_total_mean": 868.0111111111111,
+        "restaurants_tracked": 277.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66666666666669,
+          30.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Overland Park",
+        "state": "Kansas",
+        "price_mean": 1.5272727272727273,
+        "rating_mean": 4.104313725490195,
+        "user_ratings_total_mean": 899.2627450980392,
+        "restaurants_tracked": 258.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.68333333333334,
+          38.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Greensboro",
+        "state": "North Carolina",
+        "price_mean": 1.5541125541125542,
+        "rating_mean": 4.102702702702702,
+        "user_ratings_total_mean": 861.4054054054054,
+        "restaurants_tracked": 263.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81666666666666,
+          36.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort Worth",
+        "state": "Texas",
+        "price_mean": 1.650943396226415,
+        "rating_mean": 4.101984126984127,
+        "user_ratings_total_mean": 871.0873015873016,
+        "restaurants_tracked": 257.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33333333333331,
+          32.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port St. Lucie",
+        "state": "Florida",
+        "price_mean": 1.3834586466165413,
+        "rating_mean": 4.101142857142857,
+        "user_ratings_total_mean": 599.9257142857143,
+        "restaurants_tracked": 183.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38333333333334,
+          27.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Des Moines",
+        "state": "Iowa",
+        "price_mean": 1.6147540983606556,
+        "rating_mean": 4.101119402985074,
+        "user_ratings_total_mean": 935.7686567164179,
+        "restaurants_tracked": 269.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.61666666666666,
+          41.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Elgin",
+        "state": "Illinois",
+        "price_mean": 1.5335689045936396,
+        "rating_mean": 4.1,
+        "user_ratings_total_mean": 513.1582491582492,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31666666666666,
+          42.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond[m]",
+        "state": "Virginia",
+        "price_mean": 1.5495495495495495,
+        "rating_mean": 4.099163179916317,
+        "user_ratings_total_mean": 815.439330543933,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46666666666667,
+          37.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cary",
+        "state": "North Carolina",
+        "price_mean": 1.511764705882353,
+        "rating_mean": 4.098863636363636,
+        "user_ratings_total_mean": 772.3181818181819,
+        "restaurants_tracked": 184.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81666666666666,
+          35.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Grand Prairie",
+        "state": "Texas",
+        "price_mean": 1.3803418803418803,
+        "rating_mean": 4.096527777777777,
+        "user_ratings_total_mean": 703.2118055555555,
+        "restaurants_tracked": 293.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.01666666666668,
+          32.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Everett",
+        "state": "Washington",
+        "price_mean": 1.4958677685950412,
+        "rating_mean": 4.095910780669144,
+        "user_ratings_total_mean": 661.2936802973977,
+        "restaurants_tracked": 271.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18333333333334,
+          47.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lansing",
+        "state": "Michigan",
+        "price_mean": 1.390134529147982,
+        "rating_mean": 4.095491803278688,
+        "user_ratings_total_mean": 732.360655737705,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55,
+          42.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pasadena",
+        "state": "California",
+        "price_mean": 1.3696969696969696,
+        "rating_mean": 4.09409090909091,
+        "user_ratings_total_mean": 615.4636363636364,
+        "restaurants_tracked": 229.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.13333333333334,
+          34.166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pasadena",
+        "state": "Texas",
+        "price_mean": 1.3696969696969696,
+        "rating_mean": 4.09409090909091,
+        "user_ratings_total_mean": 615.4636363636364,
+        "restaurants_tracked": 229.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.15,
+          29.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sugar Land",
+        "state": "Texas",
+        "price_mean": 1.5459770114942528,
+        "rating_mean": 4.092929292929293,
+        "user_ratings_total_mean": 863.989898989899,
+        "restaurants_tracked": 204.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.61666666666666,
+          29.58333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richardson",
+        "state": "Texas",
+        "price_mean": 1.3779904306220097,
+        "rating_mean": 4.0926356589147295,
+        "user_ratings_total_mean": 614.0930232558139,
+        "restaurants_tracked": 261.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7,
+          32.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Saint Paul",
+        "state": "Minnesota",
+        "price_mean": 1.6043478260869566,
+        "rating_mean": 4.0922178988326845,
+        "user_ratings_total_mean": 932.8677042801556,
+        "restaurants_tracked": 258.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1,
+          44.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Plano",
+        "state": "Texas",
+        "price_mean": 1.5384615384615385,
+        "rating_mean": 4.092176870748299,
+        "user_ratings_total_mean": 797.6700680272108,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.73333333333332,
+          33.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fremont",
+        "state": "California",
+        "price_mean": 1.5240963855421688,
+        "rating_mean": 4.092090395480226,
+        "user_ratings_total_mean": 676.638418079096,
+        "restaurants_tracked": 180.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93333333333334,
+          37.48333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Broken Arrow",
+        "state": "Oklahoma",
+        "price_mean": 1.3558558558558558,
+        "rating_mean": 4.0919028340080965,
+        "user_ratings_total_mean": 1009.0566801619433,
+        "restaurants_tracked": 247.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.78333333333332,
+          36.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Arvada",
+        "state": "Colorado",
+        "price_mean": 1.6106870229007633,
+        "rating_mean": 4.091891891891892,
+        "user_ratings_total_mean": 705.7871621621622,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.15,
+          39.833333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Visalia",
+        "state": "California",
+        "price_mean": 1.4047619047619047,
+        "rating_mean": 4.091025641025642,
+        "user_ratings_total_mean": 496.5128205128205,
+        "restaurants_tracked": 158.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.31666666666666,
+          36.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fresno",
+        "state": "California",
+        "price_mean": 1.4569536423841059,
+        "rating_mean": 4.090816326530612,
+        "user_ratings_total_mean": 536.3571428571429,
+        "restaurants_tracked": 204.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78333333333332,
+          36.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "price_mean": 1.5393258426966292,
+        "rating_mean": 4.090572390572391,
+        "user_ratings_total_mean": 720.6094276094276,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63333333333334,
+          35.833333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Meridian",
+        "state": "Idaho",
+        "price_mean": 1.5054945054945055,
+        "rating_mean": 4.090169491525423,
+        "user_ratings_total_mean": 871.9491525423729,
+        "restaurants_tracked": 298.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.38333333333334,
+          43.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fishers",
+        "state": "Indiana",
+        "price_mean": 1.4845814977973568,
+        "rating_mean": 4.089837398373984,
+        "user_ratings_total_mean": 777.959349593496,
+        "restaurants_tracked": 248.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01666666666667,
+          39.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Alexandria[m]",
+        "state": "Virginia",
+        "price_mean": 1.538181818181818,
+        "rating_mean": 4.089666666666667,
+        "user_ratings_total_mean": 704.13,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08333333333333,
+          38.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Newark",
+        "state": "New Jersey",
+        "price_mean": 1.5655430711610487,
+        "rating_mean": 4.088255033557046,
+        "user_ratings_total_mean": 794.2046979865772,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16666666666667,
+          40.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bakersfield",
+        "state": "California",
+        "price_mean": 1.358974358974359,
+        "rating_mean": 4.087165775401069,
+        "user_ratings_total_mean": 502.8663101604278,
+        "restaurants_tracked": 189.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.01666666666668,
+          35.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tuscaloosa",
+        "state": "Alabama",
+        "price_mean": 1.3426966292134832,
+        "rating_mean": 4.086082474226805,
+        "user_ratings_total_mean": 519.3711340206186,
+        "restaurants_tracked": 200.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53333333333333,
+          33.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hampton[m]",
+        "state": "Virginia",
+        "price_mean": 1.4770642201834863,
+        "rating_mean": 4.085815602836879,
+        "user_ratings_total_mean": 624.9007092198582,
+        "restaurants_tracked": 145.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28333333333333,
+          37.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Louisville[l]",
+        "state": "Kentucky",
+        "price_mean": 1.440909090909091,
+        "rating_mean": 4.084615384615384,
+        "user_ratings_total_mean": 859.0,
+        "restaurants_tracked": 247.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63333333333334,
+          38.16666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Menifee",
+        "state": "California",
+        "price_mean": 1.3693693693693694,
+        "rating_mean": 4.083749999999999,
+        "user_ratings_total_mean": 771.7125,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18333333333334,
+          33.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clovis",
+        "state": "California",
+        "price_mean": 1.3920454545454546,
+        "rating_mean": 4.083333333333333,
+        "user_ratings_total_mean": 640.2904761904762,
+        "restaurants_tracked": 210.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.68333333333334,
+          36.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Greeley",
+        "state": "Colorado",
+        "price_mean": 1.3694267515923566,
+        "rating_mean": 4.0828877005347595,
+        "user_ratings_total_mean": 529.8770053475936,
+        "restaurants_tracked": 191.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.76666666666668,
+          40.41666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Austin",
+        "state": "Texas",
+        "price_mean": 1.4173553719008265,
+        "rating_mean": 4.082330827067668,
+        "user_ratings_total_mean": 942.7330827067669,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75,
+          30.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Stockton",
+        "state": "California",
+        "price_mean": 1.4065420560747663,
+        "rating_mean": 4.082258064516129,
+        "user_ratings_total_mean": 618.9072580645161,
+        "restaurants_tracked": 248.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31666666666666,
+          37.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Knoxville",
+        "state": "Tennessee",
+        "price_mean": 1.4963503649635037,
+        "rating_mean": 4.081818181818182,
+        "user_ratings_total_mean": 924.1346801346801,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93333333333334,
+          35.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Spokane",
+        "state": "Washington",
+        "price_mean": 1.4656862745098038,
+        "rating_mean": 4.081153846153846,
+        "user_ratings_total_mean": 590.85,
+        "restaurants_tracked": 262.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43333333333334,
+          47.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jersey City",
+        "state": "New Jersey",
+        "price_mean": 1.6254681647940075,
+        "rating_mean": 4.080743243243243,
+        "user_ratings_total_mean": 823.581081081081,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06666666666666,
+          40.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Akron",
+        "state": "Ohio",
+        "price_mean": 1.3145539906103287,
+        "rating_mean": 4.080000000000001,
+        "user_ratings_total_mean": 523.795918367347,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51666666666667,
+          41.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fairfield",
+        "state": "California",
+        "price_mean": 1.4410480349344978,
+        "rating_mean": 4.07898832684825,
+        "user_ratings_total_mean": 552.6614785992218,
+        "restaurants_tracked": 263.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03333333333332,
+          38.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "price_mean": 1.6944444444444444,
+        "rating_mean": 4.0787162162162165,
+        "user_ratings_total_mean": 742.9966216216217,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26666666666668,
+          44.96666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Huntsville",
+        "state": "Alabama",
+        "price_mean": 1.3364485981308412,
+        "rating_mean": 4.077642276422765,
+        "user_ratings_total_mean": 628.4552845528456,
+        "restaurants_tracked": 257.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66666666666667,
+          34.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tucson",
+        "state": "Arizona",
+        "price_mean": 1.3794466403162056,
+        "rating_mean": 4.077622377622378,
+        "user_ratings_total_mean": 767.1363636363636,
+        "restaurants_tracked": 289.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.86666666666666,
+          32.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "High Point",
+        "state": "North Carolina",
+        "price_mean": 1.4166666666666667,
+        "rating_mean": 4.077516778523489,
+        "user_ratings_total_mean": 888.2080536912752,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98333333333333,
+          35.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "St. Louis[m]",
+        "state": "Missouri",
+        "price_mean": 1.4105263157894736,
+        "rating_mean": 4.0769491525423724,
+        "user_ratings_total_mean": 785.128813559322,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23333333333332,
+          38.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Provo",
+        "state": "Utah",
+        "price_mean": 1.4946236559139785,
+        "rating_mean": 4.076890756302521,
+        "user_ratings_total_mean": 826.1302521008404,
+        "restaurants_tracked": 245.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63333333333334,
+          40.23333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lancaster",
+        "state": "California",
+        "price_mean": 1.346938775510204,
+        "rating_mean": 4.076068376068376,
+        "user_ratings_total_mean": 548.5982905982906,
+        "restaurants_tracked": 122.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16666666666669,
+          34.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "price_mean": 1.52803738317757,
+        "rating_mean": 4.074524714828897,
+        "user_ratings_total_mean": 922.384030418251,
+        "restaurants_tracked": 268.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.76666666666668,
+          38.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pearland",
+        "state": "Texas",
+        "price_mean": 1.3426966292134832,
+        "rating_mean": 4.073305084745763,
+        "user_ratings_total_mean": 638.7584745762712,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31666666666666,
+          29.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fontana",
+        "state": "California",
+        "price_mean": 1.4292682926829268,
+        "rating_mean": 4.072268907563025,
+        "user_ratings_total_mean": 508.97899159663865,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.46666666666668,
+          34.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "price_mean": 1.5510204081632653,
+        "rating_mean": 4.071673819742489,
+        "user_ratings_total_mean": 942.4935622317597,
+        "restaurants_tracked": 238.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51666666666668,
+          35.46666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lakewood",
+        "state": "New Jersey",
+        "price_mean": 1.481818181818182,
+        "rating_mean": 4.068045112781954,
+        "user_ratings_total_mean": 714.1315789473684,
+        "restaurants_tracked": 275.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21666666666667,
+          40.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lakewood",
+        "state": "Colorado",
+        "price_mean": 1.481818181818182,
+        "rating_mean": 4.068045112781954,
+        "user_ratings_total_mean": 714.1315789473684,
+        "restaurants_tracked": 275.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.11666666666666,
+          39.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Columbus",
+        "state": "Ohio",
+        "price_mean": 1.60352422907489,
+        "rating_mean": 4.065322580645161,
+        "user_ratings_total_mean": 1051.3870967741937,
+        "restaurants_tracked": 249.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98333333333333,
+          39.98333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "price_mean": 1.5034965034965035,
+        "rating_mean": 4.064779874213836,
+        "user_ratings_total_mean": 562.5471698113207,
+        "restaurants_tracked": 164.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68333333333334,
+          40.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Topeka",
+        "state": "Kansas",
+        "price_mean": 1.391304347826087,
+        "rating_mean": 4.064159292035399,
+        "user_ratings_total_mean": 747.358407079646,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.68333333333334,
+          39.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Davie",
+        "state": "Florida",
+        "price_mean": 1.5234375,
+        "rating_mean": 4.063299663299664,
+        "user_ratings_total_mean": 1145.855218855219,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28333333333333,
+          26.066666666666663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New York",
+        "state": "New York",
+        "price_mean": 1.3900709219858156,
+        "rating_mean": 4.062365591397849,
+        "user_ratings_total_mean": 452.9623655913978,
+        "restaurants_tracked": 188.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93333333333334,
+          40.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vacaville",
+        "state": "California",
+        "price_mean": 1.4393939393939394,
+        "rating_mean": 4.061904761904762,
+        "user_ratings_total_mean": 574.3129251700681,
+        "restaurants_tracked": 297.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96666666666668,
+          38.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Renton",
+        "state": "Washington",
+        "price_mean": 1.544776119402985,
+        "rating_mean": 4.060738255033557,
+        "user_ratings_total_mean": 676.5771812080537,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18333333333334,
+          47.46666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Omaha",
+        "state": "Nebraska",
+        "price_mean": 1.4351851851851851,
+        "rating_mean": 4.060377358490566,
+        "user_ratings_total_mean": 608.2754716981132,
+        "restaurants_tracked": 272.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.03333333333332,
+          41.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Frisco",
+        "state": "Texas",
+        "price_mean": 1.511737089201878,
+        "rating_mean": 4.060323886639676,
+        "user_ratings_total_mean": 805.3441295546559,
+        "restaurants_tracked": 253.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81666666666666,
+          33.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cleveland",
+        "state": "Ohio",
+        "price_mean": 1.3858921161825726,
+        "rating_mean": 4.06,
+        "user_ratings_total_mean": 574.1381818181818,
+        "restaurants_tracked": 283.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66666666666667,
+          41.46666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Arlington",
+        "state": "Texas",
+        "price_mean": 1.4368932038834952,
+        "rating_mean": 4.058555133079849,
+        "user_ratings_total_mean": 840.0304182509506,
+        "restaurants_tracked": 273.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11666666666666,
+          32.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Corpus Christi",
+        "state": "Texas",
+        "price_mean": 1.4344827586206896,
+        "rating_mean": 4.057608695652174,
+        "user_ratings_total_mean": 816.9836956521739,
+        "restaurants_tracked": 191.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16666666666669,
+          27.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "price_mean": 1.4394618834080717,
+        "rating_mean": 4.05625,
+        "user_ratings_total_mean": 1089.1958333333334,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.63333333333334,
+          35.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jackson",
+        "state": "Mississippi",
+        "price_mean": 1.4444444444444444,
+        "rating_mean": 4.05622641509434,
+        "user_ratings_total_mean": 447.811320754717,
+        "restaurants_tracked": 271.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21666666666668,
+          32.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Montgomery",
+        "state": "Alabama",
+        "price_mean": 1.3944444444444444,
+        "rating_mean": 4.0561224489795915,
+        "user_ratings_total_mean": 846.6275510204082,
+        "restaurants_tracked": 200.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26666666666667,
+          32.333333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lakeland",
+        "state": "Florida",
+        "price_mean": 1.4018264840182648,
+        "rating_mean": 4.055762081784387,
+        "user_ratings_total_mean": 790.8364312267659,
+        "restaurants_tracked": 282.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95,
+          28.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Garland",
+        "state": "Texas",
+        "price_mean": 1.3616071428571428,
+        "rating_mean": 4.053237410071943,
+        "user_ratings_total_mean": 608.0143884892086,
+        "restaurants_tracked": 290.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.63333333333334,
+          32.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Palmdale",
+        "state": "California",
+        "price_mean": 1.3630136986301369,
+        "rating_mean": 4.052469135802469,
+        "user_ratings_total_mean": 711.4753086419753,
+        "restaurants_tracked": 165.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1,
+          34.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Indianapolis[g]",
+        "state": "Indiana",
+        "price_mean": 1.4836065573770492,
+        "rating_mean": 4.052307692307692,
+        "user_ratings_total_mean": 811.7269230769231,
+        "restaurants_tracked": 262.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13333333333334,
+          39.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Goodyear",
+        "state": "Arizona",
+        "price_mean": 1.430939226519337,
+        "rating_mean": 4.051980198019802,
+        "user_ratings_total_mean": 1177.7425742574258,
+        "restaurants_tracked": 203.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.36666666666666,
+          33.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Allen",
+        "state": "Texas",
+        "price_mean": 1.5342960288808665,
+        "rating_mean": 4.050333333333334,
+        "user_ratings_total_mean": 928.7766666666666,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.66666666666669,
+          33.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "price_mean": 1.5878136200716846,
+        "rating_mean": 4.050000000000001,
+        "user_ratings_total_mean": 1033.1174496644296,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83333333333333,
+          35.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "price_mean": 1.4788732394366197,
+        "rating_mean": 4.0485477178423235,
+        "user_ratings_total_mean": 773.5767634854772,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08333333333331,
+          33.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hesperia",
+        "state": "California",
+        "price_mean": 1.303030303030303,
+        "rating_mean": 4.048497854077253,
+        "user_ratings_total_mean": 688.4935622317597,
+        "restaurants_tracked": 233.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.31666666666666,
+          34.416666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Houston",
+        "state": "Texas",
+        "price_mean": 1.4566037735849056,
+        "rating_mean": 4.04731543624161,
+        "user_ratings_total_mean": 746.2114093959732,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38333333333334,
+          29.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "McKinney",
+        "state": "Texas",
+        "price_mean": 1.402542372881356,
+        "rating_mean": 4.047272727272728,
+        "user_ratings_total_mean": 671.4909090909091,
+        "restaurants_tracked": 276.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.66666666666669,
+          33.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Baltimore[m]",
+        "state": "Maryland",
+        "price_mean": 1.6159420289855073,
+        "rating_mean": 4.046308724832215,
+        "user_ratings_total_mean": 985.271812080537,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61666666666666,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lee's Summit",
+        "state": "Missouri",
+        "price_mean": 1.3597883597883598,
+        "rating_mean": 4.04517766497462,
+        "user_ratings_total_mean": 759.5786802030457,
+        "restaurants_tracked": 201.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.36666666666666,
+          38.91666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "price_mean": 1.4659090909090908,
+        "rating_mean": 4.041919191919193,
+        "user_ratings_total_mean": 732.2828282828283,
+        "restaurants_tracked": 204.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.78333333333332,
+          32.46666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sunnyvale",
+        "state": "California",
+        "price_mean": 1.4766355140186915,
+        "rating_mean": 4.040983606557377,
+        "user_ratings_total_mean": 680.8196721311475,
+        "restaurants_tracked": 124.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01666666666668,
+          37.38333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tacoma",
+        "state": "Washington",
+        "price_mean": 1.5272727272727273,
+        "rating_mean": 4.040666666666667,
+        "user_ratings_total_mean": 1048.4033333333334,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45,
+          47.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "price_mean": 1.4693140794223827,
+        "rating_mean": 4.038926174496644,
+        "user_ratings_total_mean": 1075.520134228188,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9,
+          36.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Norman",
+        "state": "Oklahoma",
+        "price_mean": 1.3214285714285714,
+        "rating_mean": 4.038505747126437,
+        "user_ratings_total_mean": 559.3218390804598,
+        "restaurants_tracked": 183.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33333333333331,
+          35.233333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Columbus[u]",
+        "state": "Georgia",
+        "price_mean": 1.3798076923076923,
+        "rating_mean": 4.038297872340425,
+        "user_ratings_total_mean": 720.5829787234043,
+        "restaurants_tracked": 238.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.86666666666666,
+          32.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Glendale",
+        "state": "California",
+        "price_mean": 1.4145299145299146,
+        "rating_mean": 4.03671875,
+        "user_ratings_total_mean": 786.81640625,
+        "restaurants_tracked": 256.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23333333333332,
+          34.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Glendale",
+        "state": "Arizona",
+        "price_mean": 1.4145299145299146,
+        "rating_mean": 4.03671875,
+        "user_ratings_total_mean": 786.81640625,
+        "restaurants_tracked": 256.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.18333333333334,
+          33.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Killeen",
+        "state": "Texas",
+        "price_mean": 1.413533834586466,
+        "rating_mean": 4.035714285714286,
+        "user_ratings_total_mean": 915.922077922078,
+        "restaurants_tracked": 156.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73333333333332,
+          31.066666666666663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mobile",
+        "state": "Alabama",
+        "price_mean": 1.3598130841121496,
+        "rating_mean": 4.034873949579832,
+        "user_ratings_total_mean": 632.3151260504202,
+        "restaurants_tracked": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1,
+          30.666666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lewisville",
+        "state": "Texas",
+        "price_mean": 1.5751879699248121,
+        "rating_mean": 4.029629629629629,
+        "user_ratings_total_mean": 927.7373737373738,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98333333333332,
+          33.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clarksville",
+        "state": "Tennessee",
+        "price_mean": 1.292929292929293,
+        "rating_mean": 4.0292792792792795,
+        "user_ratings_total_mean": 612.3558558558559,
+        "restaurants_tracked": 232.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33333333333333,
+          36.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Joliet",
+        "state": "Illinois",
+        "price_mean": 1.4424778761061947,
+        "rating_mean": 4.02851711026616,
+        "user_ratings_total_mean": 498.106463878327,
+        "restaurants_tracked": 267.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13333333333334,
+          41.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Washington[k]",
+        "state": "District of Columbia",
+        "price_mean": 1.5451263537906137,
+        "rating_mean": 4.027364864864865,
+        "user_ratings_total_mean": 757.6824324324324,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01666666666667,
+          38.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Naperville",
+        "state": "Illinois",
+        "price_mean": 1.5023041474654377,
+        "rating_mean": 4.025941422594142,
+        "user_ratings_total_mean": 639.3138075313808,
+        "restaurants_tracked": 240.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16666666666667,
+          41.73333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Westminster",
+        "state": "Colorado",
+        "price_mean": 1.6071428571428572,
+        "rating_mean": 4.024749163879599,
+        "user_ratings_total_mean": 972.7123745819398,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06666666666666,
+          39.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nampa",
+        "state": "Idaho",
+        "price_mean": 1.4470046082949308,
+        "rating_mean": 4.021757322175732,
+        "user_ratings_total_mean": 795.6903765690377,
+        "restaurants_tracked": 242.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.56666666666666,
+          43.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jacksonville[f]",
+        "state": "Florida",
+        "price_mean": 1.4102564102564104,
+        "rating_mean": 4.020833333333333,
+        "user_ratings_total_mean": 815.8875,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66666666666667,
+          30.33333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rio Rancho",
+        "state": "New Mexico",
+        "price_mean": 1.3333333333333333,
+        "rating_mean": 4.018828451882845,
+        "user_ratings_total_mean": 743.7949790794979,
+        "restaurants_tracked": 245.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.66666666666669,
+          35.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vallejo",
+        "state": "California",
+        "price_mean": 1.487603305785124,
+        "rating_mean": 4.018315018315018,
+        "user_ratings_total_mean": 551.4505494505495,
+        "restaurants_tracked": 277.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26666666666668,
+          38.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Antonio",
+        "state": "Texas",
+        "price_mean": 1.199004975124378,
+        "rating_mean": 4.017154811715481,
+        "user_ratings_total_mean": 636.0753138075314,
+        "restaurants_tracked": 241.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.51666666666668,
+          29.466666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Memphis",
+        "state": "Tennessee",
+        "price_mean": 1.38860103626943,
+        "rating_mean": 4.01409090909091,
+        "user_ratings_total_mean": 740.9818181818182,
+        "restaurants_tracked": 228.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.96666666666667,
+          35.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Warren",
+        "state": "Michigan",
+        "price_mean": 1.3236514522821576,
+        "rating_mean": 4.012962962962963,
+        "user_ratings_total_mean": 726.2777777777778,
+        "restaurants_tracked": 277.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01666666666667,
+          42.48333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kent",
+        "state": "Washington",
+        "price_mean": 1.5241635687732342,
+        "rating_mean": 4.009395973154363,
+        "user_ratings_total_mean": 753.738255033557,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21666666666668,
+          47.38333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Columbia",
+        "state": "South Carolina",
+        "price_mean": 1.3450704225352113,
+        "rating_mean": 4.0,
+        "user_ratings_total_mean": 856.23,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88333333333334,
+          34.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Columbia",
+        "state": "Missouri",
+        "price_mean": 1.3450704225352113,
+        "rating_mean": 4.0,
+        "user_ratings_total_mean": 856.23,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31666666666666,
+          38.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Charleston",
+        "state": "South Carolina",
+        "price_mean": 1.2820512820512822,
+        "rating_mean": 3.9989795918367346,
+        "user_ratings_total_mean": 572.5561224489796,
+        "restaurants_tracked": 201.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06666666666666,
+          32.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Independence",
+        "state": "Missouri",
+        "price_mean": 1.3894230769230769,
+        "rating_mean": 3.996311475409836,
+        "user_ratings_total_mean": 794.8811475409836,
+        "restaurants_tracked": 249.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.35,
+          39.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Philadelphia[e]",
+        "state": "Pennsylvania",
+        "price_mean": 1.3937007874015748,
+        "rating_mean": 3.993918918918918,
+        "user_ratings_total_mean": 546.8581081081081,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13333333333334,
+          40.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "price_mean": 1.3646616541353382,
+        "rating_mean": 3.9928571428571433,
+        "user_ratings_total_mean": 712.2687074829932,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.35,
+          34.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sandy Springs",
+        "state": "Georgia",
+        "price_mean": 1.6370656370656371,
+        "rating_mean": 3.988927335640139,
+        "user_ratings_total_mean": 784.0173010380623,
+        "restaurants_tracked": 296.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36666666666666,
+          33.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fayetteville",
+        "state": "North Carolina",
+        "price_mean": 1.3814432989690721,
+        "rating_mean": 3.9888888888888885,
+        "user_ratings_total_mean": 996.0048309178744,
+        "restaurants_tracked": 208.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96666666666667,
+          35.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lubbock",
+        "state": "Texas",
+        "price_mean": 1.4539473684210527,
+        "rating_mean": 3.9837988826815636,
+        "user_ratings_total_mean": 743.0502793296089,
+        "restaurants_tracked": 183.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88333333333334,
+          33.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Orlando",
+        "state": "Florida",
+        "price_mean": 1.2918454935622317,
+        "rating_mean": 3.983520599250936,
+        "user_ratings_total_mean": 769.0973782771536,
+        "restaurants_tracked": 275.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26666666666667,
+          28.416666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Edison",
+        "state": "New Jersey",
+        "price_mean": 1.5488721804511278,
+        "rating_mean": 3.981443298969072,
+        "user_ratings_total_mean": 665.9965635738831,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41666666666667,
+          40.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Detroit",
+        "state": "Michigan",
+        "price_mean": 1.3648068669527897,
+        "rating_mean": 3.9767790262172285,
+        "user_ratings_total_mean": 916.1610486891386,
+        "restaurants_tracked": 269.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1,
+          42.38333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Elizabeth",
+        "state": "New Jersey",
+        "price_mean": 1.537593984962406,
+        "rating_mean": 3.9767676767676763,
+        "user_ratings_total_mean": 823.2659932659933,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18333333333334,
+          40.66666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Norfolk[m]",
+        "state": "Virginia",
+        "price_mean": 1.3083333333333333,
+        "rating_mean": 3.974825174825175,
+        "user_ratings_total_mean": 577.8671328671329,
+        "restaurants_tracked": 145.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23333333333333,
+          36.91666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Carrollton",
+        "state": "Texas",
+        "price_mean": 1.4497991967871486,
+        "rating_mean": 3.972260273972603,
+        "user_ratings_total_mean": 867.1267123287671,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.88333333333334,
+          32.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Centennial",
+        "state": "Colorado",
+        "price_mean": 1.5232558139534884,
+        "rating_mean": 3.9711956521739133,
+        "user_ratings_total_mean": 798.2771739130435,
+        "restaurants_tracked": 184.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.86666666666666,
+          39.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Irving",
+        "state": "Texas",
+        "price_mean": 1.3713235294117647,
+        "rating_mean": 3.9709459459459464,
+        "user_ratings_total_mean": 942.1925675675676,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96666666666668,
+          32.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fargo",
+        "state": "North Dakota",
+        "price_mean": 1.480349344978166,
+        "rating_mean": 3.9680327868852463,
+        "user_ratings_total_mean": 685.3524590163935,
+        "restaurants_tracked": 244.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81666666666666,
+          46.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Woodbridge",
+        "state": "New Jersey",
+        "price_mean": 1.5040322580645162,
+        "rating_mean": 3.966896551724138,
+        "user_ratings_total_mean": 800.8862068965517,
+        "restaurants_tracked": 293.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28333333333333,
+          40.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Las Vegas",
+        "state": "Nevada",
+        "price_mean": 1.2821782178217822,
+        "rating_mean": 3.960851063829787,
+        "user_ratings_total_mean": 750.9829787234042,
+        "restaurants_tracked": 246.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.08333333333331,
+          36.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kansas City[x]",
+        "state": "Kansas",
+        "price_mean": 1.391089108910891,
+        "rating_mean": 3.9557017543859643,
+        "user_ratings_total_mean": 781.1578947368421,
+        "restaurants_tracked": 230.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.73333333333332,
+          39.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Palm Bay",
+        "state": "Florida",
+        "price_mean": 1.3983739837398375,
+        "rating_mean": 3.953146853146853,
+        "user_ratings_total_mean": 833.013986013986,
+        "restaurants_tracked": 145.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.66666666666667,
+          27.98333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abilene",
+        "state": "Texas",
+        "price_mean": 1.378238341968912,
+        "rating_mean": 3.951741293532338,
+        "user_ratings_total_mean": 703.8905472636816,
+        "restaurants_tracked": 204.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.73333333333332,
+          32.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Midland",
+        "state": "Texas",
+        "price_mean": 1.5631067961165048,
+        "rating_mean": 3.9458823529411764,
+        "user_ratings_total_mean": 627.5921568627451,
+        "restaurants_tracked": 265.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.11666666666666,
+          32.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sterling Heights",
+        "state": "Michigan",
+        "price_mean": 1.3436293436293436,
+        "rating_mean": 3.939929328621908,
+        "user_ratings_total_mean": 772.190812720848,
+        "restaurants_tracked": 285.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03333333333333,
+          42.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "South Fulton",
+        "state": "Georgia",
+        "price_mean": 1.3212435233160622,
+        "rating_mean": 3.9377049180327868,
+        "user_ratings_total_mean": 599.3401639344262,
+        "restaurants_tracked": 260.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66666666666667,
+          33.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Thornton",
+        "state": "Colorado",
+        "price_mean": 1.4599303135888502,
+        "rating_mean": 3.933779264214047,
+        "user_ratings_total_mean": 948.1304347826087,
+        "restaurants_tracked": 299.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.93333333333334,
+          39.91666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dallas",
+        "state": "Texas",
+        "price_mean": 1.3212996389891696,
+        "rating_mean": 3.9207357859531764,
+        "user_ratings_total_mean": 909.9565217391304,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76666666666668,
+          32.78333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Macon[w]",
+        "state": "Georgia",
+        "price_mean": 1.2338308457711442,
+        "rating_mean": 3.912345679012345,
+        "user_ratings_total_mean": 601.6666666666666,
+        "restaurants_tracked": 250.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.68333333333334,
+          32.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Buckeye",
+        "state": "Arizona",
+        "price_mean": 1.3020408163265307,
+        "rating_mean": 3.9122676579925653,
+        "user_ratings_total_mean": 989.2118959107806,
+        "restaurants_tracked": 274.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.58333333333331,
+          33.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Denver[i]",
+        "state": "Colorado",
+        "price_mean": 1.4863813229571985,
+        "rating_mean": 3.8963503649635034,
+        "user_ratings_total_mean": 807.7737226277372,
+        "restaurants_tracked": 274.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.88333333333334,
+          39.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dearborn",
+        "state": "Michigan",
+        "price_mean": 1.3316831683168318,
+        "rating_mean": 3.8950617283950617,
+        "user_ratings_total_mean": 730.716049382716,
+        "restaurants_tracked": 253.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21666666666667,
+          42.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Atlanta",
+        "state": "Georgia",
+        "price_mean": 1.4661921708185053,
+        "rating_mean": 3.894630872483221,
+        "user_ratings_total_mean": 956.9496644295302,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41666666666667,
+          33.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mesquite",
+        "state": "Texas",
+        "price_mean": 1.348314606741573,
+        "rating_mean": 3.851186440677967,
+        "user_ratings_total_mean": 732.4,
+        "restaurants_tracked": 300.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.58333333333331,
+          32.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Odessa",
+        "state": "Texas",
+        "price_mean": 1.4482758620689655,
+        "rating_mean": 3.8019867549668875,
+        "user_ratings_total_mean": 606.3443708609271,
+        "restaurants_tracked": 158.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.33333333333331,
+          31.883333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Aurora",
+        "state": "Colorado",
+        "price_mean": 1.5406698564593302,
+        "rating_mean": 3.7477178423236515,
+        "user_ratings_total_mean": 758.2572614107884,
+        "restaurants_tracked": 243.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.68333333333334,
+          39.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Aurora",
+        "state": "Illinois",
+        "price_mean": 1.5406698564593302,
+        "rating_mean": 3.7477178423236515,
+        "user_ratings_total_mean": 758.2572614107884,
+        "restaurants_tracked": 243.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28333333333333,
+          41.766666666666666
+        ]
+      }
+    }
+  ]
+}

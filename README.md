@@ -1,5 +1,5 @@
 
-# [Flavor Map](https://flavor-map.com)
+# [Flavor Map](https://hudsong.dev/flavormap)
 
 A React site to view cities across America ranked by their average restaurant ratings.
 
